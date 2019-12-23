@@ -1,0 +1,2 @@
+include:
+  - local: "/fake-client/.gitlab-ci.yml"
